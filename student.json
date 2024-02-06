@@ -1,0 +1,10 @@
+{
+    "name"       :"Ram",
+    "age"        : 24,
+    "dob"        :"12/10/1999",
+    "gender"     :"male",
+    "nationality":"indian",
+    "hobbies"    :"cricket",
+    "role"       :"hardworking"
+    
+}
